@@ -10,3 +10,7 @@ desc
 *italic*
 
 [Github](https://www.github.com)
+
+- George Washington
+- John Adams
+- Thomas Jefferson
